@@ -1,4 +1,7 @@
 [![aes-sayo's 42 stats](https://badge.mediaplus.ma/binary/aes-sayo)](https://github.com/Sayouti1)
+
+<img align="right" width="370px" alt="coding" src="https://steamuserimages-a.akamaihd.net/ugc/936070882781584054/2E214D0C9EC645403AAAC337201FE4BA7E01EA16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sayouti1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sayouti1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-es-sayouti-06b67a214) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sayouti_1)  [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sayouti1)
 
