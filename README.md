@@ -3,7 +3,7 @@
     <img style="width:20dvw;" src="https://badge.mediaplus.ma/binary/aes-sayo" alt="aes-sayo's 42 stats">
   </a>
 <!--   <img style="border-radius: 35px;" width="350" alt="coding" src="https://steamuserimages-a.akamaihd.net/ugc/936070882781584054/2E214D0C9EC645403AAAC337201FE4BA7E01EA16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"> -->
-  <img src="./OCPJSE17.jpg" alt="OCPJSE17">
+  <img style="20dvw" src="./OCPJSE17.jpg" alt="OCPJSE17">
 </div>
 
 ## 🌐 Socials:
