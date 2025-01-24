@@ -2,6 +2,8 @@
 
 <img style="position:absolute; top:0; right:0; border-radius:35px;" width="350dvw" alt="coding" src="https://steamuserimages-a.akamaihd.net/ugc/936070882781584054/2E214D0C9EC645403AAAC337201FE4BA7E01EA16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
+<img src="./OCPJSE17.jpg">
+
 ## 🌐 Socials:
 [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sayouti1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-es-sayouti-06b67a214)
