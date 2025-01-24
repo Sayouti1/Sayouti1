@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style=" width:100% ;display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/Sayouti1">
     <img style="width:20dvw;" src="https://badge.mediaplus.ma/binary/aes-sayo" alt="aes-sayo's 42 stats">
   </a>
