@@ -1,5 +1,5 @@
 <div style="width: 100%; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
-  <a href="https://github.com/Sayouti1" style="flex: 1 1 250px; text-align: center;">
+  <a href="https://github.com/Sayouti1" style="width: 100%; flex: 1 1 250px; text-align: center;">
     <img src="https://badge.mediaplus.ma/binary/aes-sayo" alt="aes-sayo's 42 stats" style="width: 60%; max-width: 250px; border-radius: 10px;">
   </a>
   <div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; flex-wrap: wrap;">
