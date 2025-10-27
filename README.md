@@ -1,10 +1,10 @@
 <div style="width: 100%; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
   <a href="https://github.com/Sayouti1" style="flex: 1 1 250px; text-align: center;">
-    <img src="https://badge.mediaplus.ma/binary/aes-sayo" alt="aes-sayo's 42 stats" style="width: 100%; max-width: 280px; border-radius: 10px;">
+    <img src="https://badge.mediaplus.ma/binary/aes-sayo" alt="aes-sayo's 42 stats" style="width: 90%; max-width: 280px; border-radius: 10px;">
   </a>
   <div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-    <img src="./OCPJSE17.jpg" alt="OCP Java SE 17" style="height: 100px; border-radius: 10px;">
-    <img src="./OCI25FA.png" alt="OCI Foundations Associate" style="height: 100px; border-radius: 10px;">
+    <img src="./OCPJSE17.jpg" alt="OCP Java SE 17" style="height: 120px; border-radius: 10px;">
+    <img src="./OCI25FA.png" alt="OCI Foundations Associate" style="height: 120px; border-radius: 10px;">
   </div>
 </div>
 
