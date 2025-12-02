@@ -4,6 +4,7 @@
   </a>
   <div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; flex-wrap: wrap;">
     <img src="./OCPJSE17.jpg" alt="OCP Java SE 17" style="height: 160px; border-radius: 10px;">
+    <img src="./42leve11.png" alt="42 Junior Developer" style="height: 160px; border-radius: 10px;">
     <img src="./OCI25FA.png" alt="OCI Foundations Associate" style="height: 160px; border-radius: 10px;">
   </div>
 </div>
